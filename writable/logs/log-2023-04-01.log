@@ -1,0 +1,97 @@
+ERROR - 2023-04-01 02:14:57 --> mysqli_sql_exception: Column 'nama' cannot be null in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `us...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\Kuliah\Produktif\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\Kuliah\Produktif\app\Controllers\Userdb.php(55): CodeIgniter\Model->insert(Array)
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\Userdb->create()
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+#10 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-01 02:14:57 --> Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`nama`, `alamat`) VALUES (:nama:, :alamat:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Userdb.php(55): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Userdb->create()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-01 02:16:09 --> mysqli_sql_exception: Column 'nama' cannot be null in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `us...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\Kuliah\Produktif\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\Kuliah\Produktif\app\Controllers\Userdb.php(55): CodeIgniter\Model->insert(Array)
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\Userdb->create()
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+#10 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-01 02:16:09 --> Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`nama`, `alamat`) VALUES (:nama:, :alamat:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Userdb.php(55): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Userdb->create()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-04-01 02:18:44 --> mysqli_sql_exception: Column 'nama' cannot be null in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `us...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `us...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `us...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `us...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(782): CodeIgniter\Model->doInsert(Array)
+#6 D:\Kuliah\Produktif\system\Model.php(730): CodeIgniter\BaseModel->insert(Array, true)
+#7 D:\Kuliah\Produktif\app\Controllers\Userdb.php(55): CodeIgniter\Model->insert(Array)
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\Userdb->create()
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+#10 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#11 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#12 {main}
+CRITICAL - 2023-04-01 02:18:44 --> Column 'nama' cannot be null
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `users` (`nama`, `alamat`) VALUES (NULL, NULL)')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(2309): CodeIgniter\Database\BaseConnection->query('INSERT INTO `users` (`nama`, `alamat`) VALUES (:nama:, :alamat:)', [...], false)
+ 5 SYSTEMPATH\Model.php(330): CodeIgniter\Database\BaseBuilder->insert()
+ 6 SYSTEMPATH\BaseModel.php(782): CodeIgniter\Model->doInsert([...])
+ 7 SYSTEMPATH\Model.php(730): CodeIgniter\BaseModel->insert([...], true)
+ 8 APPPATH\Controllers\Userdb.php(55): CodeIgniter\Model->insert([...])
+ 9 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Userdb->create()
+10 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+11 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+12 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-01 02:46:20 --> Undefined array key "nama"
+in APPPATH\Controllers\Userdb.php on line 71.
+ 1 APPPATH\Controllers\Userdb.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key "nama"', 'D:\\Kuliah\\Produktif\\app\\Controllers\\Userdb.php', 71)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Userdb->update('6')
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-01 23:36:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-01 23:59:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-01 23:59:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

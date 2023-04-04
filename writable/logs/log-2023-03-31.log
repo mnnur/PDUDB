@@ -1,0 +1,84 @@
+CRITICAL - 2023-03-31 17:46:13 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:46:48 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:47:32 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:47:56 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:48:14 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:50:19 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:50:41 --> Class "App\Models\UserModels" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 17:50:57 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(927): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(482): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(351): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 22:58:22 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 23:02:28 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Userdb->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 23:04:20 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Userdb->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 23:05:17 --> Class "App\Model\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Userdb->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 23:07:54 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(906): App\Controllers\Userdb->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(490): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-03-31 23:08:53 --> Class "App\Models\UserModel" not found
+in APPPATH\Controllers\Userdb.php on line 13.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Userdb->index()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Userdb))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()

@@ -1,0 +1,9 @@
+__ci_last_regenerate|i:1680395332;_ci_previous_url|s:27:"http://localhost/index.php/";register_notice|s:277:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>The registerPasswordConfirm field does not match the password field.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:1:{s:15:"register_notice";s:3:"old";}

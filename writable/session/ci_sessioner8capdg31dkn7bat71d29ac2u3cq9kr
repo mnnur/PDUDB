@@ -1,0 +1,11 @@
+__ci_last_regenerate|i:1680396864;_ci_previous_url|s:27:"http://localhost/index.php/";register_notice|s:341:"<!-- DEBUG-VIEW START 1 SYSTEMPATH\Validation\Views\list.php -->
+	<div class="errors" role="alert">
+		<ul>
+					<li>Username tidak boleh kosong</li>
+					<li>The registerEmail field is required.</li>
+					<li>The registerPassword field is required.</li>
+				</ul>
+	</div>
+
+<!-- DEBUG-VIEW ENDED 1 SYSTEMPATH\Validation\Views\list.php -->
+";__ci_vars|a:1:{s:15:"register_notice";s:3:"old";}

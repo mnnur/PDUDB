@@ -1,0 +1,601 @@
+INFO - 2023-04-02 00:00:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:00:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:01:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:01:44 --> "auth" filter must have a matching alias defined.
+in SYSTEMPATH\Filters\Filters.php on line 340.
+ 1 SYSTEMPATH\Filters\Filters.php(340): CodeIgniter\Filters\Exceptions\FilterException::forNoAlias('auth')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\Filters\Filters->enableFilter('auth', 'before')
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:04:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:04:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:04:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:05:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:06:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:06:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:06:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:06:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:07:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:07:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:07:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:21:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:23:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:24:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:28:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:28:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:28:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:54:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:54:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:54:46 --> Undefined array key 0
+in APPPATH\Controllers\Login.php on line 25.
+ 1 APPPATH\Controllers\Login.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'D:\\Kuliah\\Produktif\\app\\Controllers\\Login.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:56:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:56:28 --> Undefined array key 0
+in APPPATH\Controllers\Login.php on line 24.
+ 1 APPPATH\Controllers\Login.php(24): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'D:\\Kuliah\\Produktif\\app\\Controllers\\Login.php', 24)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:56:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:57:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:57:54 --> Uninitialized string offset 0
+in APPPATH\Controllers\Login.php on line 13.
+ 1 APPPATH\Controllers\Login.php(13): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Uninitialized string offset 0', 'D:\\Kuliah\\Produktif\\app\\Controllers\\Login.php', 13)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:57:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:58:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:58:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:58:49 --> Array to string conversion
+in APPPATH\Controllers\Login.php on line 18.
+ 1 APPPATH\Controllers\Login.php(18): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\Kuliah\\Produktif\\app\\Controllers\\Login.php', 18)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:59:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:59:03 --> Array to string conversion
+in APPPATH\Views\landing.php on line 20.
+ 1 APPPATH\Views\landing.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\Kuliah\\Produktif\\app\\Views\\landing.php', 20)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Kuliah\\Produktif\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\GetPage.php(15): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetPage->landingView()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetPage))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:59:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 00:59:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 00:59:54 --> Undefined array key 0
+in APPPATH\Controllers\Login.php on line 25.
+ 1 APPPATH\Controllers\Login.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined array key 0', 'D:\\Kuliah\\Produktif\\app\\Controllers\\Login.php', 25)
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\Login->login()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 00:59:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:01:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:01:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:01:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:01:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:01:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:02:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:02:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:03:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:03:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:04:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:04:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:04:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:05:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:05:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:06:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:06:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 01:06:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 09:50:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 09:53:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 09:55:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 10:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 10:36:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 10:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 10:37:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 10:37:04 --> Array to string conversion
+in APPPATH\Views\landing.php on line 20.
+ 1 APPPATH\Views\landing.php(20): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Array to string conversion', 'D:\\Kuliah\\Produktif\\app\\Views\\landing.php', 20)
+ 2 SYSTEMPATH\View\View.php(213): include('D:\\Kuliah\\Produktif\\app\\Views\\landing.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1184): CodeIgniter\View\View->render('landing', [], true)
+ 5 APPPATH\Controllers\GetPage.php(15): view('landing')
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\GetPage->landingView()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\GetPage))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 10:37:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 11:20:48 --> Object of class App\Models\TokenModel could not be converted to string
+in APPPATH\Controllers\ResetPassword.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-02 11:22:15 --> Object of class App\Models\TokenModel could not be converted to string
+in APPPATH\Controllers\ResetPassword.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-02 11:27:56 --> Object of class App\Models\TokenModel could not be converted to string
+in APPPATH\Controllers\ResetPassword.php on line 44.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-04-02 11:34:03 --> Object of class App\Models\TokenModel could not be converted to string
+in APPPATH\Controllers\ResetPassword.php on line 56.
+ 1 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 2 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 3 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 12:28:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:29:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:29:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:29:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:32:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:36:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:37:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:39:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:39:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:41:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:41:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:45:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:45:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 12:46:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 12:54:08 --> Undefined property: stdClass::$NOW
+INFO - 2023-04-02 12:54:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 12:54:33 --> Undefined property: stdClass::$NOW
+INFO - 2023-04-02 12:56:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 12:56:57 --> mysqli_sql_exception: You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time' at line 1 in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT NOW() AS...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT NOW() AS...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT NOW() AS...')
+#3 D:\Kuliah\Produktif\system\Model.php(836): CodeIgniter\Database\BaseConnection->query('SELECT NOW() AS...')
+#4 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(51): CodeIgniter\Model->__call('query', Array)
+#5 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+#6 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-04-02 12:56:57 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'current_time' at line 1
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT NOW() AS current_time', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT NOW() AS current_time')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT NOW() AS current_time')
+ 4 SYSTEMPATH\Model.php(836): CodeIgniter\Database\BaseConnection->query('SELECT NOW() AS current_time')
+ 5 APPPATH\Controllers\ResetPassword.php(51): CodeIgniter\Model->__call('query', [...])
+ 6 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 7 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 8 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 12:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 12:57:57 --> Undefined property: stdClass::$NOW
+INFO - 2023-04-02 13:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 13:00:39 --> strtotime(): Argument #1 ($datetime) must be of type string, CodeIgniter\Database\MySQLi\Result given
+in APPPATH\Controllers\ResetPassword.php on line 51.
+ 1 APPPATH\Controllers\ResetPassword.php(51): strtotime(Object(CodeIgniter\Database\MySQLi\Result))
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:01:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:03:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 13:03:11 --> strtotime(): Argument #2 ($baseTimestamp) must be of type ?int, string given
+in APPPATH\Controllers\ResetPassword.php on line 52.
+ 1 APPPATH\Controllers\ResetPassword.php(52): strtotime('+1 hour', '2023-04-02 20:03:11')
+ 2 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+ 3 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 4 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:03:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:06:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:09:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:09:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:11:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:11:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:11:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:12:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:12:36 --> mysqli_sql_exception: Unknown column 'email' in 'where clause' in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`\nFRO...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`\nFRO...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`\nFRO...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`\nFRO...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-02 13:12:36 --> Unknown column 'email' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`
+FROM `users`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:16:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:16:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:16:59 --> mysqli_sql_exception: Unknown column 'email' in 'where clause' in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`\nFRO...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`\nFRO...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`\nFRO...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`\nFRO...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-02 13:16:59 --> Unknown column 'email' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`
+FROM `users`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:17:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:18:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:19:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:19:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:20:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:20:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 13:22:49 --> Trying to access array offset on value of type null
+in APPPATH\Models\TokenModel.php on line 25.
+ 1 APPPATH\Models\TokenModel.php(25): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\Kuliah\\Produktif\\app\\Models\\TokenModel.php', 25)
+ 2 APPPATH\Controllers\ResetPassword.php(118): App\Models\TokenModel->verifyToken('t', '5')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:24:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:24:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 13:25:00 --> Trying to access array offset on value of type null
+in APPPATH\Models\TokenModel.php on line 23.
+ 1 APPPATH\Models\TokenModel.php(23): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'D:\\Kuliah\\Produktif\\app\\Models\\TokenModel.php', 23)
+ 2 APPPATH\Controllers\ResetPassword.php(118): App\Models\TokenModel->verifyToken('t', 'c')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:26:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:26:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:26:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:28:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:31:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 13:31:15 --> log_message(): Argument #2 ($message) must be of type string, null given, called in D:\Kuliah\Produktif\app\Models\TokenModel.php on line 20
+in SYSTEMPATH\Common.php on line 801.
+ 1 APPPATH\Models\TokenModel.php(20): log_message('err', null)
+ 2 APPPATH\Controllers\ResetPassword.php(118): App\Models\TokenModel->verifyToken('test@test.com', '35934897de5efb9ca8e0faf9e53316c54a1b4478d4e8b483b54b4d3727406a1b')
+ 3 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 4 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 5 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:32:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:32:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-04-02 13:32:41 --> "err" is an invalid log level.
+in SYSTEMPATH\Log\Logger.php on line 258.
+ 1 SYSTEMPATH\Log\Logger.php(258): CodeIgniter\Log\Exceptions\LogException::forInvalidLogLevel('err')
+ 2 SYSTEMPATH\Common.php(812): CodeIgniter\Log\Logger->log('err', '\'test@test.com\'', [])
+ 3 APPPATH\Models\TokenModel.php(20): log_message('err', '\'test@test.com\'')
+ 4 APPPATH\Controllers\ResetPassword.php(118): App\Models\TokenModel->verifyToken('test@test.com', '35934897de5efb9ca8e0faf9e53316c54a1b4478d4e8b483b54b4d3727406a1b')
+ 5 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 6 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+ 7 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:32:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:32:57 --> 'test@test.com'
+INFO - 2023-04-02 13:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:33:44 --> array (
+  'id' => '22',
+  'email' => 'test@test.com',
+  'token' => '52f5f2443299bce5856996a8ea4c9169',
+  'created' => '20:32:40',
+  'expired' => '21:32:39',
+)
+INFO - 2023-04-02 13:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:33:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:34:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:35:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:35:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:35:55 --> '05de935de40eabb4a9b9a6af4dc2e7ea20e104aa672ff4ccccfd613ee3aa9850'
+ERROR - 2023-04-02 13:35:55 --> '05de935de40eabb4a9b9a6af4dc2e7ea'
+INFO - 2023-04-02 13:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:35:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:37:36 --> Email: sendWithMail throwed ErrorException: mail(): SMTP server response: 502 Unrecognized command, 4 retry(ies) remaining. in D:\Kuliah\Produktif\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): SMTP se...', 'D:\\Kuliah\\Produ...', 1735)
+#1 D:\Kuliah\Produktif\system\Email\Email.php(1735): mail('', '=?UTF-8?Q?PDUDB...', 'Kode verifikasi...', 'Date: Sun, 2 Ap...', '-f admin@pdudb....')
+#2 D:\Kuliah\Produktif\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 D:\Kuliah\Produktif\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(88): CodeIgniter\Email\Email->send()
+#5 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(65): App\Controllers\ResetPassword->sendToken('', '6c8dae9f7b50ef0...')
+#6 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-02 13:37:36 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-04-02 13:37:36 --> 
+INFO - 2023-04-02 13:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:37:45 --> Email: sendWithMail throwed ErrorException: mail(): SMTP server response: 502 Unrecognized command, 4 retry(ies) remaining. in D:\Kuliah\Produktif\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): SMTP se...', 'D:\\Kuliah\\Produ...', 1735)
+#1 D:\Kuliah\Produktif\system\Email\Email.php(1735): mail('', '=?UTF-8?Q?PDUDB...', 'Kode verifikasi...', 'Date: Sun, 2 Ap...', '-f admin@pdudb....')
+#2 D:\Kuliah\Produktif\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 D:\Kuliah\Produktif\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(88): CodeIgniter\Email\Email->send()
+#5 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(65): App\Controllers\ResetPassword->sendToken('', 'fa1d371d3573566...')
+#6 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-02 13:37:45 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-04-02 13:37:45 --> 
+INFO - 2023-04-02 13:37:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:37:54 --> Email: sendWithMail throwed ErrorException: mail(): SMTP server response: 502 Unrecognized command, 4 retry(ies) remaining. in D:\Kuliah\Produktif\system\Email\Email.php:1735
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'mail(): SMTP se...', 'D:\\Kuliah\\Produ...', 1735)
+#1 D:\Kuliah\Produktif\system\Email\Email.php(1735): mail('', '=?UTF-8?Q?PDUDB...', 'Kode verifikasi...', 'Date: Sun, 2 Ap...', '-f admin@pdudb....')
+#2 D:\Kuliah\Produktif\system\Email\Email.php(1667): CodeIgniter\Email\Email->sendWithMail()
+#3 D:\Kuliah\Produktif\system\Email\Email.php(1565): CodeIgniter\Email\Email->spoolEmail()
+#4 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(88): CodeIgniter\Email\Email->send()
+#5 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(65): App\Controllers\ResetPassword->sendToken('', '9ace97213aaf8ce...')
+#6 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->createToken()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#10 {main}
+ERROR - 2023-04-02 13:37:54 --> Email: Unable to send email using PHP mail(). Your server might not be configured to send mail using this method.
+ERROR - 2023-04-02 13:37:54 --> 
+INFO - 2023-04-02 13:38:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:38:39 --> '0a2010db5b132d59f5ff6bd97aa705cde5dc4463f3aba746c75c73dbc52d3bed'
+ERROR - 2023-04-02 13:38:39 --> '0a2010db5b132d59f5ff6bd97aa705cde5dc4463f3aba746c75c73dbc52d3bed'
+ERROR - 2023-04-02 13:38:39 --> mysqli_sql_exception: Unknown column 'email' in 'where clause' in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`\nFRO...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`\nFRO...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`\nFRO...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`\nFRO...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-02 13:38:39 --> Unknown column 'email' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`
+FROM `users`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:39:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:39:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:39:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:39:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:40:22 --> mysqli_sql_exception: Unknown column 'email' in 'where clause' in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`\nFRO...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`\nFRO...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`\nFRO...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`\nFRO...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-02 13:40:22 --> Unknown column 'email' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`
+FROM `users`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-04-02 13:41:11 --> mysqli_sql_exception: Unknown column 'email' in 'where clause' in D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php:295
+Stack trace:
+#0 D:\Kuliah\Produktif\system\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`\nFRO...', 0)
+#1 D:\Kuliah\Produktif\system\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`\nFRO...')
+#2 D:\Kuliah\Produktif\system\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`\nFRO...')
+#3 D:\Kuliah\Produktif\system\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`\nFRO...', Array, false)
+#4 D:\Kuliah\Produktif\system\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+#5 D:\Kuliah\Produktif\system\BaseModel.php(656): CodeIgniter\Model->doFirst()
+#6 D:\Kuliah\Produktif\app\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+#7 D:\Kuliah\Produktif\system\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+#8 D:\Kuliah\Produktif\system\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+#9 D:\Kuliah\Produktif\system\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#10 D:\Kuliah\Produktif\public\index.php(67): CodeIgniter\CodeIgniter->run()
+#11 {main}
+CRITICAL - 2023-04-02 13:41:11 --> Unknown column 'email' in 'where clause'
+in SYSTEMPATH\Database\MySQLi\Connection.php on line 295.
+ 1 SYSTEMPATH\Database\MySQLi\Connection.php(295): mysqli->query('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1', 0)
+ 2 SYSTEMPATH\Database\BaseConnection.php(691): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 3 SYSTEMPATH\Database\BaseConnection.php(605): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `id`
+FROM `users`
+WHERE `email` = \'test@test.com\'
+ LIMIT 1')
+ 4 SYSTEMPATH\Database\BaseBuilder.php(1616): CodeIgniter\Database\BaseConnection->query('SELECT `id`
+FROM `users`
+WHERE `email` = :email:
+ LIMIT 1', [...], false)
+ 5 SYSTEMPATH\Model.php(268): CodeIgniter\Database\BaseBuilder->get()
+ 6 SYSTEMPATH\BaseModel.php(656): CodeIgniter\Model->doFirst()
+ 7 APPPATH\Controllers\ResetPassword.php(124): CodeIgniter\BaseModel->first()
+ 8 SYSTEMPATH\CodeIgniter.php(934): App\Controllers\ResetPassword->reset()
+ 9 SYSTEMPATH\CodeIgniter.php(499): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\ResetPassword))
+10 SYSTEMPATH\CodeIgniter.php(368): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+11 FCPATH\index.php(67): CodeIgniter\CodeIgniter->run()
+INFO - 2023-04-02 13:41:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:44:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:45:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:45:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:46:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:47:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:47:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:47:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:48:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:48:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:49:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:49:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:50:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:51:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:52:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:52:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-04-02 13:52:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.

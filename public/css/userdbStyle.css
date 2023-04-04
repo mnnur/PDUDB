@@ -1,0 +1,121 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    color: #eee;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #1E1F22;
+}
+
+.main-layout {
+    display: flex;
+    margin: 5rem;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-top: 2rem;
+}
+
+table, th, tr, td {
+    border: #eee solid 1px;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 1rem;
+}
+
+.user-form > * {
+    margin-bottom: 1rem;
+}
+
+.user-form > * > * {
+    margin-bottom: 1rem;
+}
+
+.user-form > form {
+    margin-bottom: 0;
+}
+
+.user-form > h3 {
+    text-align: center;
+}
+
+.user-table, .user-form {
+    background-color: #343538;
+    box-shadow: 0 0 1px rgb(199, 199, 199);
+    padding: 1rem;
+}
+
+.user-table > h3 {
+    text-align: center;
+    margin-bottom: 0.5rem;
+}
+
+.navbar {
+    background-color: #FF953C;
+    width: 100%; /* Full width */
+    min-height: 4rem;
+    display: flex;
+}
+
+.navbar > * {
+    margin-left: 3rem;
+    margin-right: 3rem;
+}
+
+.logo, .logout-link{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.logo {
+    font-size: 32pt;
+}
+
+.logout-btn > * {
+    background-color: #e72a11;
+}
+
+.space {
+    flex: 1;
+}
+
+
+input {
+    border: 0;
+    outline: 0;
+    background: transparent;
+    border-bottom: 1px solid #FF953C;
+    width: 100%;
+}
+
+
+button {
+    background-color: #FF953C;
+    min-width: 100px;
+    min-height: 25px;
+    cursor: pointer;
+}
+
+.info {
+    text-align: center;
+    padding-top: 3rem;
+    font-weight: bold;
+}
+
+.edit-btn {
+    background-color: #e2b513;
+}
+
+.delete-btn {
+    background-color: #F32A10;
+}
+
+.add-btn {
+    background-color: #27c034;
+}
